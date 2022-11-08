@@ -1,2 +1,2 @@
 # Product-Segmentation-Adidas-and-Nike
-Adidas and Nike are huge companies with large market shares that are constantly battling to come on top. In this project, I used product segmentation and clustering to see which brands are better for different prices, Adidas or Nike.
+Anyone who loves to exercise, run, trek, hike, or move in any way at all would put immense importance on good footwear. Adidas and Nike are two of the most prominent shoe companies with large market shares that are constantly battling to come on top. In this project, I used product segmentation and clustering to see which brands are better for different prices, Adidas or Nike.
